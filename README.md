@@ -1,5 +1,5 @@
 Ini kumpulan projek game yang pernah kubuat ketika di SMA, khususnya di kelas ekskur pemrograman (SINTECH).
-Game2 ini aku buat dengan pygame, modul python yang dibuat khusus untuk membuat game.
+Game2 ini aku buat dengan **pygame**, modul python yang dibuat khusus untuk membuat game.
 
 Ada 3 game yang saya buat:
 1. Snake Game
