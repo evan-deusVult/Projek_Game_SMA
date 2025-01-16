@@ -6,4 +6,36 @@ Ada 3 game yang saya buat:
 2. Pong
 3. Pixel (konsepnya seperti super mario bros)
 
-Anda bisa memainkan gamenya dengan mendownload semua filenya di bawah 1 folder, kemudian jalankan source code.py/code.py untuk menjalankan gamenya (dengan catatan Anda sudah punya bahasa python, pygame, dan IDE di dalam komputer Anda)
+**Panduan Menjalankan Projek**:
+1. Clone Repositori:
+```bash
+git clone https://github.com/username/Projek_Game_SMA.git
+cd Projek_Game_SMA
+```
+
+2. Buat Virtual Environment:
+```bash
+python -m venv venv
+```
+
+3. Aktifkan Virtual Environment (Windows):
+```bash
+.\venv\Scripts\activate
+```
+Mac/Linux:
+```bash
+source venv/bin/activate
+```
+
+4. Instal Dependensi:
+```bash
+pip install -r requirements.txt
+```
+
+5. Jalankan Game:
+Jalankan game dengan menjalankan file source_code.py di folder game pilihanmu:
+```bash
+python source_code.py
+```
+
+6. **Catatan:** Pastikan Python dan Pygame terinstal di sistem Anda sebelum memulai
