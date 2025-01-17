@@ -1,41 +1,47 @@
-Ini kumpulan projek game yang pernah kubuat ketika di SMA, khususnya di kelas ekskur pemrograman (SINTECH).
-Game2 ini aku buat dengan **pygame**, modul python yang dibuat khusus untuk membuat game.
+# Game Projects Collection
 
-Ada 3 game yang saya buat:
-1. Snake Game
-2. Pong
-3. Pixel (konsepnya seperti super mario bros)
+This is a collection of game projects I created during high school, specifically in the programming extracurricular (SINTECH).  
+These games were developed using **pygame**, a Python module designed for game development.  
 
-**Panduan Menjalankan Projek**:
-1. Clone Repositori:
+## Games Included:
+1. **Snake Game**
+2. **Pong**
+3. **Pixel** (concept similar to Super Mario Bros)
+
+---
+
+## **How to Run the Projects**:
+1. **Clone the Repository**:
 ```bash
 git clone https://github.com/username/Projek_Game_SMA.git
 cd Projek_Game_SMA
 ```
 
-2. Buat Virtual Environment:
+2. **Create a Virtual Environment**:
 ```bash
 python -m venv venv
 ```
 
-3. Aktifkan Virtual Environment (Windows):
+3. **Activate the Virtual Environment**:
+- On **Windows**:
 ```bash
 .\venv\Scripts\activate
 ```
-Mac/Linux:
+- On **Mac/Linux**:
 ```bash
 source venv/bin/activate
 ```
 
-4. Instal Dependensi:
+4. **Install Dependencies**:
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Jalankan Game:
-Jalankan game dengan menjalankan file source_code.py di folder game pilihanmu:
+5. **Run the Game**:
+Run the game by executing the source_code.py file inside the folder of your chosen game:
 ```bash
 python source_code.py
 ```
 
-6. **Catatan:** Pastikan Python dan Pygame terinstal di sistem Anda sebelum memulai
+6. **Note**:
+Ensure Python and Pygame are installed on your system before starting.
